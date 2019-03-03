@@ -1,0 +1,1 @@
+ECHO_TEST: This is a verified program I wrote that echos input from a PC terminal emulator, via FTDI uart. KNOWN GOOD
